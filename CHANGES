@@ -1,6 +1,7 @@
 master
 ------
 
+* Upgrade to Django 1.10
 * Upgrade to Celery 4
 * Add `cabot` executable instead of using python manage.py (for e.g. migrating)
 
