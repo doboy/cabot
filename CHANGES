@@ -1,6 +1,7 @@
 master
 ------
 
+* Upgrade to Django 1.10
 * Upgrade to Celery 4
 * Add User Profile settings link to user dropdown
 
