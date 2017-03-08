@@ -1,6 +1,7 @@
 master
 ------
 
+* Upgrade to Celery 4
 * Add User Profile settings link to user dropdown
 
 Version 0.9.1
